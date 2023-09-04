@@ -1,0 +1,25 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "cctype": "cpp",
+    "cstdint": "cpp",
+    "cstdlib": "cpp",
+    "cwchar": "cpp",
+    "ios": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "new": "cpp",
+    "ostream": "cpp",
+    "string": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "vector": "cpp",
+    "xmemory": "cpp",
+    "xstddef": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp"
+  }
+}
